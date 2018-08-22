@@ -1,0 +1,8 @@
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\bin\Debug\netcoreapp2.0\NeuralNetTesting.deps.json
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\bin\Debug\netcoreapp2.0\NeuralNetTesting.runtimeconfig.json
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\bin\Debug\netcoreapp2.0\NeuralNetTesting.runtimeconfig.dev.json
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\bin\Debug\netcoreapp2.0\NeuralNetTesting.dll
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\obj\Debug\netcoreapp2.0\NeuralNetTesting.csprojAssemblyReference.cache
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\obj\Debug\netcoreapp2.0\NeuralNetTesting.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\obj\Debug\netcoreapp2.0\NeuralNetTesting.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\NeuralNetTesting\NeuralNetTesting\obj\Debug\netcoreapp2.0\NeuralNetTesting.AssemblyInfo.cs

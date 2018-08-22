@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "755fbf32b5aa3c382eef724166c2ecf231621ea0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "NeuralNetTesting/1.0.0": {
+        "dependencies": {
+          "Alea": "3.0.4",
+          "AleaTK": "0.9.0",
+          "NUnit": "3.10.1"
+        },
+        "runtime": {
+          "NeuralNetTesting.dll": {}
+        }
+      },
+      "Alea/3.0.4": {},
+      "AleaTK/0.9.0": {
+        "dependencies": {
+          "Alea": "3.0.4"
+        },
+        "runtime": {
+          "lib/net40/AleaTK.dll": {}
+        }
+      },
+      "NUnit/3.10.1": {
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeuralNetTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alea/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zpLvEj8JchGqS/cDuGVMJTwBPrco6fXY8J+Xp3aHM/Kb0+CBpLAqwLAbT4tcLXXOo1VDBwO8tO0waPRfwLvvig==",
+      "path": "alea/3.0.4",
+      "hashPath": "alea.3.0.4.nupkg.sha512"
+    },
+    "AleaTK/0.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/hy6uhn33WeuiHpBJrOH1ofoO3qEnfhlkZe8ELaIUQYwaWXbH9FIyTOwFg/6WF3GpqrvqP+l5FFxMQ5dOSYIOw==",
+      "path": "aleatk/0.9.0",
+      "hashPath": "aleatk.0.9.0.nupkg.sha512"
+    },
+    "NUnit/3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3ii6+VLdeIxTQ5gPjk/7g/xl+aCifbfcIkiGayZCuos+22FEdtKGrxMe6SzoXCQCcL7gdqhfNIFTaZ1+dS18g==",
+      "path": "nunit/3.10.1",
+      "hashPath": "nunit.3.10.1.nupkg.sha512"
+    }
+  }
+}
